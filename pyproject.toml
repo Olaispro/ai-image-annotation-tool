@@ -1,0 +1,9 @@
+[project]
+name = "ai-image-annotation-tool"
+version = "0.1.0"
+description = "A lightweight browser interface for drawing and exporting image boxes."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
